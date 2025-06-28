@@ -27,6 +27,7 @@ function getConfig(): DefaultTheme.Config {
                 items: [
                     { text: 'Common Issues', link: '/en/doc/debug/problems' },
                     { text: 'How To Use',link:'/en/doc/debug/use'},
+                    { text: 'Ground Reference ', link: '/en/doc/debug/use' }
                     { text: 'Ground Reference Values', link: '/en/doc/debug/value-to-ground' }
                 ]
             },
